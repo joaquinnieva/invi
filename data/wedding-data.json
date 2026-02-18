@@ -1,0 +1,118 @@
+{
+  "bride": "Florencia",
+  "groom": "Matías",
+  "initials": "F & M",
+  "date": "2026-04-12",
+  "displayDate": "12 / 04 / 2026",
+  "time": "17:00",
+  "mainMessage": "¡Te invitamos a celebrar nuestra boda!",
+  "photos": {
+    "heroBackground": "/photos/venue-bg.jpg",
+    "left": [
+      "/photos/couple-1.jpg",
+      "/photos/couple-2.jpg",
+      "/photos/couple-3.jpg"
+    ],
+    "right": [
+      "/photos/couple-4.jpg",
+      "/photos/couple-5.jpg"
+    ],
+    "gallery": [
+      "/photos/gallery-1.jpg",
+      "/photos/gallery-2.jpg",
+      "/photos/gallery-3.jpg",
+      "/photos/gallery-4.jpg",
+      "/photos/gallery-5.jpg",
+      "/photos/gallery-6.jpg"
+    ]
+  },
+  "ceremony": {
+    "name": "Basílica Nuestra Señora del Pilar",
+    "address": "Junín 1904, Recoleta, CABA, Argentina",
+    "time": "17:00",
+    "mapUrl": "https://maps.google.com/?q=Bas%C3%ADlica+Nuestra+Se%C3%B1ora+del+Pilar"
+  },
+  "reception": {
+    "name": "Salón Palermo",
+    "address": "Av. del Libertador 5678, Palermo, CABA, Argentina",
+    "time": "19:00",
+    "mapUrl": "https://maps.google.com/?q=Av.+del+Libertador+5678,+CABA"
+  },
+  "schedule": [
+    {
+      "time": "16:30",
+      "event": "Llegada de invitados"
+    },
+    {
+      "time": "17:00",
+      "event": "Ceremonia religiosa"
+    },
+    {
+      "time": "18:00",
+      "event": "Sesión de fotos"
+    },
+    {
+      "time": "19:00",
+      "event": "Cóctel de bienvenida"
+    },
+    {
+      "time": "20:00",
+      "event": "Recepción y cena"
+    },
+    {
+      "time": "22:00",
+      "event": "Fiesta y baile"
+    }
+  ],
+  "giftRegistry": {
+    "enabled": true,
+    "title": "Mesa de Regalos",
+    "message": "Tu presencia es nuestro mejor regalo, pero si deseas obsequiarnos algo, te dejamos nuestra informacion bancaria.",
+    "bankName": "Banco Galicia",
+    "accountHolder": "Florencia Pérez y Matías Gómez",
+    "accountNumber": "0012 3456 7890 1234",
+    "clabe": "0170000123456789012345"
+  },
+  "rsvp": {
+    "title": "Confirma tu Asistencia",
+    "message": "Por favor confirma tu asistencia antes del",
+    "deadline": "2026-03-30",
+    "phone": "+54 11 2345 6789",
+    "whatsapp": "+54 11 2345 6789"
+  },
+  "dressCode": {
+    "enabled": true,
+    "title": "Codigo de Vestimenta",
+    "code": "Formal Elegante",
+    "colors": [
+      "#000000",
+      "#1e3a5f",
+      "#4a4a4a",
+      "#8b7355"
+    ],
+    "colorNames": [
+      "Negro",
+      "Azul marino",
+      "Gris",
+      "Beige"
+    ],
+    "note": "Evitar color blanco"
+  },
+  "album": {
+    "enabled": true,
+    "title": "Comparte tus Fotos",
+    "hashtag": "#FlorYMatias2026",
+    "instagram": "@florymatias",
+    "message": "Usa nuestro hashtag para compartir las fotos del evento"
+  },
+  "sections": {
+    "inicio": true,
+    "detalles": true,
+    "cronograma": true,
+    "galeria": true,
+    "cuentaRegresiva": true,
+    "precio": true,
+    "asistencia": true,
+    "album": true
+  }
+}
